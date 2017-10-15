@@ -1,0 +1,8 @@
+body{
+      background: #7e8f25 url("../images/star-wars.jpg") no-repeat right top;
+      color: #ffffff;
+}
+h1{
+  float: right;
+  padding: 20px;
+}
