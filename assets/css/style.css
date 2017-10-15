@@ -6,3 +6,22 @@ h1{
   float: right;
   padding: 20px;
 }
+.player-image{
+  height: 150px;
+  width: 180px;
+}
+.player-box{
+  border : solid 1px #00A258;
+  text-align: center;
+  padding: 10px 30px;
+  background-color: #fff;
+  color: #342F52;
+  width: auto;
+  float: left;
+  margin: 10px;
+}
+.player-box h6{
+  font-weight: bold;
+  font-size: 18px;
+
+}
